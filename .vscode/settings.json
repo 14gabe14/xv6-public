@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "date.h": "c",
+        "mystdio.h": "c",
+        "user.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
